@@ -13,4 +13,7 @@ in 2023 10th International Conference on Soft Computing & Machine
 Intelligence (ISCMI), 2023, pp. 91–95
 DOI: 10.1109/ISCMI59957.2023.10458645
 
+The framework RAWSim-O is available in the following repository:   
+    https://github.com/merschformann/RAWSim-O
+
 
