@@ -10,7 +10,7 @@ M. T. Benavides-Robles, J. M. Cruz-Duarte, I. Amaya, and J. C. Ortiz-
 Bayliss, ‘‘On the feasibility of using neural networks as high-level solvers
 for the pod allocation problem within robotic mobile fulfillment systems,’’
 in 2023 10th International Conference on Soft Computing & Machine
-Intelligence (ISCMI), 2023, pp. 91–95
+Intelligence (ISCMI), 2023, pp. 91–95.
 DOI: 10.1109/ISCMI59957.2023.10458645
 
 The framework RAWSim-O is available in the following repository:   
