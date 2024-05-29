@@ -1,1 +1,3 @@
-info
+18000 refer to 5 hours simultion
+86400 refer to 24 hours simulartion
+The Mu is about how many items we use for sumulation, 100, 1000 or 10000. 
