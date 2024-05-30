@@ -1,4 +1,4 @@
-# Files_for_RAWSim-O_simulation
+# 📝 Files for the RAWSim-O simulation framework
 This repository was created to share the files necessary to simulate our work in the RAWSim-O framework. Some of the instances and simulation files were used in our two related works. Both of them are about the optimization of pod allocation problem.
 
 M. T. Benavides-Robles, J. M. Cruz-Duarte, J. C. Ortiz-Bayliss, and
