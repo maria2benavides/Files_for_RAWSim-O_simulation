@@ -11,7 +11,7 @@ The framework RAWSim-O is available at: https://github.com/merschformann/RAWSim-
 ## 1. Feasibility of a high-level solver (decision tree)
 
 ## 2. Feasibility of neural networks
-
+DOI: 10.1109/iscmi59957.2023.10458645
 
 
 
